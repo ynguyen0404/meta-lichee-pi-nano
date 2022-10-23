@@ -32,8 +32,10 @@ TBD <br>
 
     ***sudo apt-get install gawk wget diffstat unzip texinfo gcc-multilib build-essential chrpath socat libsdl1.2-dev xterm emscripten libmpc-dev libgmp3-dev***
 
-    **Note:**
-    More informations can be found on Yocto reference manual.
+    **Note:** <br>
+    - More informations can be found on Yocto reference manual. <br>
+    - Ubuntu20.04 can not install **emscripten** package. Please follow to fix it: <br>
+    https://askubuntu.com/questions/1357685/unable-to-locate-emscripten <br>
 
 2. Download necessary Yocto packaged listed below. Be sure to be in root of home folder.
 
