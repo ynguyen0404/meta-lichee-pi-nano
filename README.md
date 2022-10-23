@@ -133,4 +133,6 @@ TBD <br>
     ***echo 0 > /sys/class/gpio/gpio131/value***<br>
     
 # Limitation
+
+References: github.com/voloviq/meta-licheepinano
 	
